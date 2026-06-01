@@ -1,6 +1,0 @@
-{
-  "name": "Portal Peserta Didik - Birulogi",
-  "description": "Portal login dan pengecekan kelas untuk peserta didik, menggunakan tema glassmorphism modern.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
